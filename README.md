@@ -11,8 +11,8 @@
 <div align="center">
 
 **📫 Reach me at:**<br><br>
-[![Linkedin Badge](https://img.shields.io/badge/-Toma%20John-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ellievillalejos/](https://www.linkedin.com/in/toma-john-47092622b/))](https://www.linkedin.com/in/toma-john-47092622b/)
-[![Twitter Badge](https://img.shields.io/badge/-@Kamba_TJ-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/Kamba_TJ)
+[![Linkedin Badge](https://img.shields.io/badge/-Toma%20John-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/kamba56/](https://www.linkedin.com/in/kamba56/))](https://www.linkedin.com/in/kamba56/)
+[![Twitter Badge](https://img.shields.io/badge/-@Kamba_TJ-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kamba_TJ)](https://twitter.com/Kamba_TJ)
 [![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Kamba56&style=social)](https://github.com/Kamba56)</div>
 
 #### A little more about me ...

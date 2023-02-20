@@ -17,7 +17,7 @@
 
 #### A little more about me ...
 ```
-- 🌱 I’m currently learning JavaScript React
+- 🌱 I’m a full stack developer equiped with Reactjs and Ruby on Rails frameworks open for opportunities.
 - 👯 I’m looking to collaborate on dev challanges
 - 💬 Ask me about projects I've worked on
 - 📫 How to reach me: tomajohn316@yahoo.com
